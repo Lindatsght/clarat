@@ -7,6 +7,7 @@ Clarat::Application.routes.draw do
     root to: 'pages#home'
     get 'ueber-uns' => 'pages#about', as: 'about'
     get 'haeufige-fragen' => 'pages#faq', as: 'faq'
+    get 'was-bedeutet-das' => 'pages#glossary', as: 'glossary'
     get 'impressum' => 'pages#impressum', as: 'impressum'
     get 'rechtliche-hinweise' => 'pages#agb', as: 'agb'
     get 'datenschutzerklaerung' => 'pages#privacy', as: 'privacy'

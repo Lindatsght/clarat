@@ -360,5 +360,17 @@ de:
       email: |
         %{mailto}
 
+    glossary:
+      title: Wörterbuch?
+      extremism:
+        title: Extremismus
+        description: |
+          Extremistische Menschen halten sich sehr streng an politische oder
+          religiöse Regeln. So streng, dass es gegen die deutsche Verfassung
+          ist. Die Verfassung sagt, was in Deutschland die wichtigsten Rechte
+          und Gesetze sind. Extremisten wollen eigene, strenge Gesetze. Es gibt
+          Rechtsextremisten, wie Neonazis. Und Linksextremisten, wie
+          gewalttätige Autonome. Und es gibt religiöse Extremisten, wie die
+          Salafisten im Islam.
 
 

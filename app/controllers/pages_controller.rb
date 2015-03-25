@@ -9,6 +9,9 @@ class PagesController < ApplicationController
   def faq
   end
 
+  def glossary
+  end
+
   def impressum
   end
 
